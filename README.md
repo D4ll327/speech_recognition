@@ -1,8 +1,8 @@
 # speech_recognition
-# if you on linux system you need to download pip 
+### if you on linux system you need to download pip 
 sudo apt-get install python-pip
 
-# first we need to install 
+### first we need to install 
 
 # 1. speech_recognition
 pip install SpeechRecognition. 
