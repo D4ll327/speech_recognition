@@ -9,7 +9,7 @@ pip install SpeechRecognition.
 
 And to quickly try it out, run python -m speech_recognition after installing.
 
--[More info]https://pypi.python.org/pypi/SpeechRecognition/
+- [More info] (https://pypi.python.org/pypi/SpeechRecognition/)
 # 2. pyttsx3
 pip install pyttsx3
 
