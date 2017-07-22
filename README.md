@@ -10,7 +10,7 @@ pip install SpeechRecognition.
 And to quickly try it out, run python -m speech_recognition after installing.
 
 - [More info] (https://pypi.python.org/pypi/SpeechRecognition/)
-- [Machine Learning with Python](https://github.com/xxg1413/MachineLearning)  
+- [More info](https://github.com/xxg1413/MachineLearning)  
 # 2. pyttsx3
 pip install pyttsx3
 
