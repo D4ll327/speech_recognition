@@ -24,8 +24,8 @@ No module named win32com.client
 No module named win32
 
 No module named win32api
-```
-run 'pip install pypiwin32' 
+```run
+pip install pypiwin32
 ```
 
 ### 3. phue 
