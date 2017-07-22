@@ -34,7 +34,7 @@ pip install pypiwin32
 ```
 pip install phue
 ```
-```
+```python
 b = Bridge('ip_of_your_bridge')
 
 # If the app is not registered and the button is not pressed, press the button and call connect() (this only needs to be run a single time)
