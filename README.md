@@ -35,13 +35,12 @@ pip install pypiwin32
 pip install phue
 ```
 
+## All the language that support
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-## All the language that support
-```
-Catalan - Spain = ca-ES
+| Catalan - Spain  | ca-ES  |
+| Content Cell  | ca-ES  |
+
 Danish - Denmark = da-DK
 German - Germany  = de-DE
 English - Australia = en-AU
@@ -67,4 +66,4 @@ Swedish - Sweden =sv-SE
 Chinese - China = zh-CN
 Chinese - Hong Kong = zh-HK
 Chinese - Taiwan = zh-TW
-```
+
