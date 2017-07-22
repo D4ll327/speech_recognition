@@ -73,6 +73,7 @@ b.set_light(['Bathroom', 'Garage'], 'on', False)
 command =  {'transitiontime' : 300, 'on' : True, 'bri' : 254}
 b.set_light(1, command
 ````
+- [More info] https://github.com/studioimaginaire/phue
 
 ## All the language that support
 | Language-Country | Language-Country Code |
