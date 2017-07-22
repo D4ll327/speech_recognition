@@ -36,10 +36,11 @@ pip install phue
 ```
 
 ## All the language that support
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Catalan - Spain  | ca-ES  |
-| Content Cell  | ca-ES  |
+| Language-Country | Language-Country Code |
+| -------------    | -------------         |
+| Catalan - Spain  |ca-ES |
+| Content Cell     |ca-ES |
+| Danish - Denmark |da-Dk |
 
 Danish - Denmark = da-DK
 German - Germany  = de-DE
