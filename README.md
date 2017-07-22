@@ -34,3 +34,33 @@ pip install pypiwin32
 ```
 pip install phue
 ```
+
+## All the language that support
+```
+Catalan - Spain = ca-ES
+Danish - Denmark = da-DK
+German - Germany = de-DE
+English - Australia = en-AU
+English - Canada = en-CA
+English - Great Britain = en-GB
+English - Indian = en-IN
+English - United States = en-US
+Spanish - Spain = es-ES
+Spanish - Mexico = es-MX
+Finnish - Finland = fi-FI
+French - Canada = fr-CA
+French - France = fr-FR
+Italian - Italy = it-IT
+Japanese - Japan = ja-JP
+Korean - Korea = ko-KR
+Norwegian - Norway = nb-NO
+Dutch - Netherlands = nl-NL
+Polish - Poland = pl-PL
+Portuguese - Brazil = pt-BR
+Portuguese - Portugal = pt-PT
+Russian - Russia = ru-RU
+Swedish - Sweden =sv-SE
+Chinese - China = zh-CN
+Chinese - Hong Kong = zh-HK
+Chinese - Taiwan = zh-TW
+```
