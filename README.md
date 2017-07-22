@@ -1,7 +1,8 @@
 # speech_recognition
 ### if you on linux system you need to download pip 
-'sudo apt-get install python-pip'
-
+```
+sudo apt-get install python-pip
+```
 ## first we need to install 
 
 ### 1. speech_recognition
@@ -24,9 +25,12 @@ No module named win32com.client
 No module named win32
 
 No module named win32api
-```run
+run this
+```
 pip install pypiwin32
 ```
 
 ### 3. phue 
+```
 pip install phue
+```
