@@ -37,9 +37,9 @@ pip install phue
 
 ## All the language that support
 ```
-Catalan - Spain      | ca-ES
-Danish - Denmark     | da-DK
-German - Germany     | de-DE
+Catalan - Spain = ca-ES
+Danish - Denmark = da-DK
+German - Germany  = de-DE
 English - Australia = en-AU
 English - Canada = en-CA
 English - Great Britain = en-GB
